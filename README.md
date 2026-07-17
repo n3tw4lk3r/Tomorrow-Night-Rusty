@@ -1,7 +1,5 @@
 # Tomorrow Night Rusty 
 
-![Statistics Badge](https://tomorrow-night-rusty-badge.vercel.app/)
-
 A dark VS Code theme inspired by the [Rust documentation](https://doc.rust-lang.org/book/) color palette and [rusty.nvim](https://github.com/armannikoyan/rusty).
 
 Tomorrow Night Rusty is an unofficial VS Code port with support for semantic highlighting and a wide range of programming languages.
